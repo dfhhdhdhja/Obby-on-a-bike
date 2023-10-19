@@ -1,4 +1,4 @@
-if game.PlaceId == 14184086618 or 14483937954 or 14666799841 or 14840620690 or 14928421933 or 14997446013 then
+
 
    --values
    _G.AutoFarmw1 = true
@@ -293,4 +293,4 @@ starterGui:SetCore("SendNotification", {
 
 
 
-   end
+
